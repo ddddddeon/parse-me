@@ -4,7 +4,7 @@ Gets a url and calls back with err or a $ object
 
 ## Installation
 
-This module is ~10 lines of code. Installing this via npm would be vulgar. :)
+This module is ~10 lines of code. Taking this on as a frivolous npm dependency would be vulgar. :)
 
 ```
 npm install --save git+https://github.com/ddddddeon/parse-me.git
