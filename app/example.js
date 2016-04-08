@@ -4,6 +4,6 @@ parseme('http://www.google.ca', function(err, $) {
   if (err) {
     return console.log(err);
   } else {
-    console.log($);
+    return console.log($('body').find('a').eq(0).attr('href'));
   }
 });
