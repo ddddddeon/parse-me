@@ -6,7 +6,6 @@ Gets a url and calls back with err or a $ object
 
 This module is ~10 lines of code. Installing this via npm would be vulgar. :)
 
-*BUT* if you really have to, install with
 ```
 npm install --save git+https://github.com/ddddddeon/parse-me.git
 ```
