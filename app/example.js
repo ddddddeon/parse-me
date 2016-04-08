@@ -1,6 +1,6 @@
-var parseme = require('./index');
+var parseMe = require('./index');
 
-parseme('http://www.google.ca', function(err, $) {
+parseMe('http://www.google.ca', function(err, $) {
   if (err) {
     return console.log(err);
   } else {
